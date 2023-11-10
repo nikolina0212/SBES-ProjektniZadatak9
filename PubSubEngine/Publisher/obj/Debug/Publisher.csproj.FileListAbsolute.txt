@@ -1,0 +1,78 @@
+C:\Users\user\Desktop\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Publisher.exe.config
+C:\Users\user\Desktop\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Publisher.exe
+C:\Users\user\Desktop\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Publisher.pdb
+C:\Users\user\Desktop\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Contracts.dll
+C:\Users\user\Desktop\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Contracts.pdb
+C:\Users\user\Desktop\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.csprojAssemblyReference.cache
+C:\Users\user\Desktop\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.csproj.CopyComplete
+C:\Users\user\Desktop\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.exe
+C:\Users\user\Desktop\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.pdb
+C:\Users\Dajana\OneDrive\Desktop\projekat\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Publisher.exe.config
+C:\Users\Dajana\OneDrive\Desktop\projekat\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Publisher.exe
+C:\Users\Dajana\OneDrive\Desktop\projekat\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Publisher.pdb
+C:\Users\Dajana\OneDrive\Desktop\projekat\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Contracts.dll
+C:\Users\Dajana\OneDrive\Desktop\projekat\sbes-projekat\PubSubEngine\Publisher\bin\Debug\SecurityManager.dll
+C:\Users\Dajana\OneDrive\Desktop\projekat\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Contracts.pdb
+C:\Users\Dajana\OneDrive\Desktop\projekat\sbes-projekat\PubSubEngine\Publisher\bin\Debug\SecurityManager.pdb
+C:\Users\Dajana\OneDrive\Desktop\projekat\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.csproj.AssemblyReference.cache
+C:\Users\Dajana\OneDrive\Desktop\projekat\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\Dajana\OneDrive\Desktop\projekat\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.csproj.CopyComplete
+C:\Users\Dajana\OneDrive\Desktop\projekat\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.exe
+C:\Users\Dajana\OneDrive\Desktop\projekat\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.pdb
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Publisher.exe.config
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Publisher.exe
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Publisher.pdb
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Contracts.dll
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\Publisher\bin\Debug\SecurityManager.dll
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Contracts.pdb
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\Publisher\bin\Debug\SecurityManager.pdb
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.exe
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.pdb
+C:\sbes-projekat22\PubSubEngine\Publisher\bin\Debug\Publisher.exe.config
+C:\sbes-projekat22\PubSubEngine\Publisher\bin\Debug\Publisher.exe
+C:\sbes-projekat22\PubSubEngine\Publisher\bin\Debug\Publisher.pdb
+C:\sbes-projekat22\PubSubEngine\Publisher\bin\Debug\Contracts.dll
+C:\sbes-projekat22\PubSubEngine\Publisher\bin\Debug\Encrypting.dll
+C:\sbes-projekat22\PubSubEngine\Publisher\bin\Debug\SecurityManager.dll
+C:\sbes-projekat22\PubSubEngine\Publisher\bin\Debug\Contracts.pdb
+C:\sbes-projekat22\PubSubEngine\Publisher\bin\Debug\Encrypting.pdb
+C:\sbes-projekat22\PubSubEngine\Publisher\bin\Debug\SecurityManager.pdb
+C:\sbes-projekat22\PubSubEngine\Publisher\obj\Debug\Publisher.csprojAssemblyReference.cache
+C:\sbes-projekat22\PubSubEngine\Publisher\obj\Debug\Publisher.csproj.CoreCompileInputs.cache
+C:\sbes-projekat22\PubSubEngine\Publisher\obj\Debug\Publisher.csproj.CopyComplete
+C:\sbes-projekat22\PubSubEngine\Publisher\obj\Debug\Publisher.exe
+C:\sbes-projekat22\PubSubEngine\Publisher\obj\Debug\Publisher.pdb
+C:\SBES git\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Publisher.exe.config
+C:\SBES git\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Publisher.exe
+C:\SBES git\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Publisher.pdb
+C:\SBES git\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Contracts.dll
+C:\SBES git\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Encrypting.dll
+C:\SBES git\sbes-projekat\PubSubEngine\Publisher\bin\Debug\SecurityManager.dll
+C:\SBES git\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Contracts.pdb
+C:\SBES git\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Encrypting.pdb
+C:\SBES git\sbes-projekat\PubSubEngine\Publisher\bin\Debug\SecurityManager.pdb
+C:\SBES git\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.csproj.AssemblyReference.cache
+C:\SBES git\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.csproj.CoreCompileInputs.cache
+C:\SBES git\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.csproj.CopyComplete
+C:\SBES git\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.exe
+C:\SBES git\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.pdb
+C:\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Publisher.exe.config
+C:\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Publisher.exe
+C:\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Publisher.pdb
+C:\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Contracts.dll
+C:\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Encrypting.dll
+C:\sbes-projekat\PubSubEngine\Publisher\bin\Debug\SecurityManager.dll
+C:\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Contracts.pdb
+C:\sbes-projekat\PubSubEngine\Publisher\bin\Debug\Encrypting.pdb
+C:\sbes-projekat\PubSubEngine\Publisher\bin\Debug\SecurityManager.pdb
+C:\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.csproj.AssemblyReference.cache
+C:\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.csproj.SuggestedBindingRedirects.cache
+C:\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.csproj.CoreCompileInputs.cache
+C:\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.csproj.CopyComplete
+C:\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.exe
+C:\sbes-projekat\PubSubEngine\Publisher\obj\Debug\Publisher.pdb

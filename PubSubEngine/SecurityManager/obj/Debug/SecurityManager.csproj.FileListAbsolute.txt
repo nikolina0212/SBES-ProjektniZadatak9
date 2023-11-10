@@ -1,0 +1,34 @@
+C:\Users\Dajana\OneDrive\Desktop\projekat\sbes-projekat\PubSubEngine\SecurityManager\bin\Debug\SecurityManager.dll
+C:\Users\Dajana\OneDrive\Desktop\projekat\sbes-projekat\PubSubEngine\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\Users\Dajana\OneDrive\Desktop\projekat\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.csproj.AssemblyReference.cache
+C:\Users\Dajana\OneDrive\Desktop\projekat\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.csproj.CoreCompileInputs.cache
+C:\Users\Dajana\OneDrive\Desktop\projekat\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.dll
+C:\Users\Dajana\OneDrive\Desktop\projekat\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.pdb
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\SecurityManager\bin\Debug\SecurityManager.dll
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.dll
+C:\Users\Korisnik\Desktop\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.pdb
+C:\sbes-projekat22\PubSubEngine\SecurityManager\bin\Debug\SecurityManager.dll
+C:\sbes-projekat22\PubSubEngine\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\sbes-projekat22\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.csprojAssemblyReference.cache
+C:\sbes-projekat22\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.csproj.CoreCompileInputs.cache
+C:\sbes-projekat22\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.dll
+C:\sbes-projekat22\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.pdb
+C:\SBES git\sbes-projekat\PubSubEngine\SecurityManager\bin\Debug\SecurityManager.dll
+C:\SBES git\sbes-projekat\PubSubEngine\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\SBES git\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.csproj.AssemblyReference.cache
+C:\SBES git\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.FileEvent.resources
+C:\SBES git\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.cache
+C:\SBES git\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.csproj.CoreCompileInputs.cache
+C:\SBES git\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.dll
+C:\SBES git\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.pdb
+C:\sbes-projekat\PubSubEngine\SecurityManager\bin\Debug\SecurityManager.dll
+C:\sbes-projekat\PubSubEngine\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.csproj.AssemblyReference.cache
+C:\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.FileEvent.resources
+C:\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.cache
+C:\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.csproj.CoreCompileInputs.cache
+C:\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.dll
+C:\sbes-projekat\PubSubEngine\SecurityManager\obj\Debug\SecurityManager.pdb
